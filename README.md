@@ -1,5 +1,5 @@
 # Cluster (English)
-This repository contains a basic clustering project, utilizing fundamental machine learning techniques for data segmentation. The goal is to demonstrate essential clustering concepts and methodologies, including K-means, Hierarchical Clustering, and DBSCAN algorithms.
+This repository contains a basic clustering project, utilizing fundamental machine learning techniques for data segmentation. The goal is to demonstrate essential clustering concepts and methodologies, including K-means, Hierarchical Clustering and DBSCAN algorithms.
 
 # Structure
 
