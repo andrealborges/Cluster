@@ -4,11 +4,11 @@ Este repositório contém um projeto básico de clusterização, utilizando téc
 
 # Estrutura
 
-## Dados:
+**Dados:**
 Arquivo - wholesale_clients.csv
 Conteúdo - Dados de uma distribuidora atacadista
 
-## Modelos:
+**Modelos:**
 K-Means
 Hierarchical clustering
 DBSCAN
