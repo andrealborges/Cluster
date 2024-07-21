@@ -4,12 +4,15 @@ This repository contains a basic clustering project, utilizing fundamental machi
 # Structure
 
 **Data:**
+- File: wholesale_clients.csv
+- Content: Data from a wholesale distributor
 
-File: wholesale_clients.csv
-Content: Data from a wholesale distributor
-
-**Models:**
-K-Means | Hierarchical clustering | DBSCAN
+**Notebook**
+- Arquivo: Clustering.ipynb
+- Models:
+    - K-Means
+    - Hierarchical clustering
+    - DBSCAN
 
 ---
 
@@ -20,8 +23,12 @@ Este repositório contém um projeto básico de clusterização, utilizando téc
 # Estrutura
 
 **Dados:**
-Arquivo - wholesale_clients.csv
-Conteúdo - Dados de uma distribuidora atacadista
+- Arquivo: wholesale_clients.csv
+- Conteúdo: Dados de uma distribuidora atacadista
 
-**Modelos:**
-K-Means | Hierarchical clustering | DBSCAN
+**Notebook**
+- Arquivo: Clustering.ipynb
+- Modelos:
+    - K-Means
+    - Hierarchical clustering
+    - DBSCAN
